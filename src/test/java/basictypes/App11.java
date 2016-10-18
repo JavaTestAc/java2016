@@ -1,7 +1,8 @@
 package basictypes;
 
-/**
- * Created by AG on 18.10.2016.
- */
-public class App {
+
+public class App11 {
+    public static void main(String[] args) {
+        System.out.println("Здравствуй мир");
+    }
 }
